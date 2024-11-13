@@ -1,0 +1,12 @@
+{
+  "name": "t3w4-async",
+  "version": "1.0.0",
+  "description": "# Topics for today: - What is Asynchronous coding? - Threads, call stack, event loop, browser API's - JS Promises - .then callback functions - catch and finally  - File I/O with promises",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
